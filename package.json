@@ -1,0 +1,24 @@
+{
+  "name": "chitti",
+  "version": "1.0.0",
+  "description": "the robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "mani"
+  ],
+  "author": "mani",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "cognitive-services": "^0.1.2",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {}
+}
